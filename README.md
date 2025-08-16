@@ -1,4 +1,4 @@
-# Sales Dashboard – Task 8 (Data Analyst Internship)
+# Sales Dashboard – Task 8 
 
 ## 📌 Objective
 Create a simple interactive sales dashboard to analyze performance by product category, region, and month.
@@ -19,12 +19,4 @@ Create a simple interactive sales dashboard to analyze performance by product ca
 3. Sales peaked in **December** across multiple regions.
 4. Furniture had **lowest profit margin**, despite steady sales.
 
-## 🚀 How to Use
-1. Import `Superstore_Sales.csv` into Power BI/Tableau.
-2. Recreate visuals as shown in the attached screenshot.
-3. Use slicers to explore data by region.
 
-## 📁 Deliverables
-- `Superstore_Sales.csv` (dataset)
-- `Sales_Dashboard.png` (screenshot of final dashboard)
-- `insights.txt` (summary of key findings)
